@@ -129,7 +129,7 @@ If you want to suppress this error, set allowReservedSwaRoutes to true in your a
 				outfile: join(functionDir, 'index.js'),
 				bundle: true,
 				platform: 'node',
-				target: 'node18',
+				target: 'node20',
 				sourcemap: 'linked',
 				external: esbuildOptions.external,
 				keepNames: esbuildOptions.keepNames,
