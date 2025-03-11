@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.21.0](https://www.github.com/geoffrich/svelte-adapter-azure-swa/compare/v0.20.1...v0.21.0) (2025-03-04)
+
+This is a breaking change if you are deploying your own Azure functions alongside the Static Web App (`apiDir`) - see [the release notes](https://github.com/geoffrich/svelte-adapter-azure-swa/releases/tag/v0.21.0) for a migration guide.
+
+### Features
+
+* switch to Azure Functions v4  ([#177](https://www.github.com/geoffrich/svelte-adapter-azure-swa/issues/177)) ([96e6067](https://www.github.com/geoffrich/svelte-adapter-azure-swa/commit/96e6067c50926c8328a5f78969ce74c304aaba75))
+
 ### [0.20.1](https://www.github.com/geoffrich/svelte-adapter-azure-swa/compare/v0.20.0...v0.20.1) (2024-07-13)
 
 
